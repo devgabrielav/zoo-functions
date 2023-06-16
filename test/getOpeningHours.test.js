@@ -53,7 +53,7 @@ describe('Testes da função getOpeningHours', () => {
       getOpeningHours('Tuesday', '09:60-AM');
     }).toThrow('The minutes must be between 0 and 59');
   });
-  it('Teste se o zoo está aberto', () => {
+  it('Teste se o zoo está abert', () => {
     expect(getOpeningHours('Tuesday', '12:00-PM')).toEqual('The zoo is open');
   });
 });
