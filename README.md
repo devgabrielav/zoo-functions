@@ -1,10 +1,25 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+# Project Zoo Functions
+
+# Context
+This is a Javascript project to manage Zoo info. The objective is, develop functions that seek information about zoo animals such as: species and place of origin. In addition, also look for data about the people who contribute to the maintenance and care of the zoo.
+
+On this application i practice creating functions and tests on Javascript.
+
+## Used technologies
+
+> Developed using: Javascript, Jest and ESLint for cleaner code.
+
+## Installing Dependencies
+
+> After cloning the project
+
+```bash
+cd zoo-functions
+npm install
+```
+
+## Running the tests
+
+  ```
+  npm test
+  ```
